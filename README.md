@@ -8,6 +8,7 @@
 ShopModern is a high-end, minimal eCommerce web application built with a focus on clean aesthetics and premium user experience. Inspired by Apple-style simplicity, it features smooth animations, glassmorphism elements, and a seamless checkout flow.
 
 ## ✨ Key Features
+## Pair Extraordinaire Achievement Test
 
 ### 🛍️ Product Experience
 - **Dynamic Catalog**: Fetches real-time products from the [FakeStore API](https://fakestoreapi.com/).
